@@ -1,5 +1,5 @@
 {
-    "name": "dakota/cake-excel",
+    "name": "matheuscmpm/cake-excel",
     "type": "cakephp-plugin",
     "description": "CakePHP excel generator",
     "keywords": [
@@ -8,7 +8,7 @@
         "excel",
         "phpexcel"
     ],
-    "homepage": "https://github.com/dakota/CakeExcel",
+    "homepage": "https://github.com/matheuscmpm/CakeExcel",
     "license": "MIT",
     "authors": [
         {
